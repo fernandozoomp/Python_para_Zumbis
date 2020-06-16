@@ -1,2 +1,13 @@
 # Python_para_Zumbis
-Lista de exercícios do curso Python para Zumbis do Professor Fernando Masanori
+
+
+
+### Canal do YouTube do Professor Fernando   https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA 
+
+Listas Atualizadas
+
+
+Extras
+Lista 1
+
+
